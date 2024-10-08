@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  BitX
 //
-//  Created by Brittany P Jenkins on 8/6/24.
+//  Created by Brittany P Jenkins
 //
 
 import UIKit
